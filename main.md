@@ -55,17 +55,26 @@ The NEC shall be the governing body of the Party and shall consist of at least t
 
 If at any point, the NEC ceases to exist or is not yet formed then the responsibilities will be given to the party officers. Until such time as the NEC is elected, the leader will take.
 
-### Section 2: Officers
+### Revised Section 2: Officers
 
-Officers of the Party shall consist of the Leader, the Treasurer, and nominating. The Leader shall be responsible for providing strategic leadership to the Party, while the Treasurer shall be responsible for managing the Party's finances. Nominees appointed by the NEC shall have such duties as assigned by the NEC.
+Officers of the Party shall consist of the Leader, the Treasurer, the Campaign Officer (optional), and the Nomination Officer (optional). The Leader shall be responsible for providing strategic leadership to the Party, while the Treasurer shall be responsible for managing the Party's finances.
 
-#### Term limits
+The Campaign Officer, if appointed, shall be responsible for organizing and overseeing campaign activities, and the Nomination Officer, if appointed, shall handle the nomination process within the Party.
 
-Officers elected by the party leader should have a maximum length of service of 6 months. Officers elected by members of the party should have a maximum term limit of 12 months.
+If there is no Campaign Officer, their powers and responsibilities shall fall back to the Treasurer. If there is no Nomination Officer, their powers and responsibilities shall fall back to the Leader.
 
-#### Right of Recall
+#### Term limits:
+Officers elected by the Party Leader shall have a maximum length of service of 6 months. Officers elected by members of the Party shall have a maximum term limit of 12 months.
 
-A motion to start immediate re-elections can be proposed by any Officer, and they would be held if > 75% of party members requested it.
+#### Right of Recall:
+A motion to start immediate re-elections can be proposed by any Officer, and they would be held if more than 75% of party members request it.
+
+#### Nomination Officer and Campaign Officer:
+The Campaign Officer, if appointed, shall be requested by the Treasurer and elected by the members of the party. The Treasurer may also remove and add the separate role of Campaign Officer as needed.
+
+The Nomination Officer, if appointed, shall be requested by the Leader and elected by the members of the party. The Leader may also remove and add the separate role of Nomination Officer as needed.
+
+The roles of Campaign Officer and Nomination Officer as separate positions are optional and may or may not be filled based on the discretion of the party.
 
 ### Section 3: National Conference
 
