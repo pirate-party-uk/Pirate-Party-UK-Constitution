@@ -154,3 +154,111 @@ This Constitution represents the fundamental principles and values of the Pirate
 (3) Activities
 The Party shall take part in democratic electoral processes. It intends to contest any Supranational election the UK is party to, Westminster parliamentary elections, local elections, and other elections as deemed appropriate . In the furtherance of its aims, the Party may raise funds and invite and receive contributions within the limits established by electoral law, invest any monies of the Party not immediately required, in accordance with the Trustee Act of 1925, and do all such other lawful things as are necessary for the attainment of the Party’s aims.
 
+
+
+## Decision-Making and Governance
+
+### Section 1: Meetings
+
+1.1 The Party shall hold regular meetings to facilitate decision-making and governance. The frequency, timing, and type of meetings shall be determined by the National Executive Committee (NEC) in accordance with the needs and priorities of the Party.
+
+1.2 Meetings may be conducted in person, through teleconferences, video conferences, or any other suitable means of communication that allows for effective participation and decision-making.
+
+1.3 The Party shall strive to provide advance notice of meetings to all relevant stakeholders, including Party members, branches, and affiliated groups.
+
+### Section 2: Quorum
+
+2.1 A quorum, representing the minimum number of attendees required for a meeting to be valid, shall be established for Party meetings. The quorum shall be determined by the NEC and may vary depending on the type of meeting.
+
+2.2 If the quorum is not met at the scheduled start time of a meeting, the meeting may be rescheduled or postponed to a later time or date when the quorum can be achieved.
+
+### Section 3: Decision-Making Process
+
+3.1 The Party shall employ a democratic decision-making process, ensuring the participation and input of Party members.
+
+3.2 Decision-making processes may include, but are not limited to, discussions, debates, voting, consensus-building, or a combination of these methods.
+
+3.3 The specific decision-making process employed shall be determined by the NEC based on the nature of the decision, the importance of stakeholder input, and the resources available.
+
+### Section 4: Recording of Decisions
+
+4.1 The Party shall maintain accurate records of decisions made during meetings, ensuring transparency and accountability in the decision-making process.
+
+4.2 The recording of decisions can be done through various means, including audio recordings, video recordings, or written meeting minutes.
+
+4.3 The Party shall determine the appropriate method of recording decisions based on practical considerations, such as the nature of the meeting and available resources.
+
+4.4 Audio recordings or video recordings of meetings shall be preserved as official records and stored securely for future reference.
+
+4.5 Meeting minutes, if prepared, shall include essential details such as the date and time of the meeting, attendees present, agenda items discussed, decisions made, and any action points or resolutions.
+
+4.6 The minutes shall be circulated to all meeting participants and Party members within a reasonable timeframe after the meeting, allowing for review and verification of the accuracy of the recorded decisions.
+
+4.7 Any corrections or amendments to the recorded decisions shall be made in a transparent manner, with proper documentation and communication to relevant stakeholders.
+
+4.8 The Party shall maintain a centralized repository or archive for the storage and access of recorded decisions, ensuring their long-term availability and retrieval.
+
+4.9 The Party may establish additional procedures or guidelines for the recording of decisions, as deemed necessary to enhance transparency and facilitate the effective governance of the Party.
+
+4.10 The NEC shall be responsible for overseeing the implementation of the provisions related to the recording of decisions, ensuring compliance with the Party's governance arrangements.
+
+### Section 5: Override of Quorum by the NEC
+5.1 In exceptional circumstances where the quorum cannot be met for a meeting, the NEC may override the quorum requirement and proceed with the meeting.
+
+5.2 The decision to override the quorum requirement shall require a thorough review and consideration of the circumstances and potential consequences.
+
+5.3 The NEC shall provide a clear rationale and justification for the decision to override the quorum requirement, ensuring transparency and accountability to Party members.
+
+5.4 The override of the quorum requirement shall be temporary and limited to the specific circumstances defined by the NEC.
+
+5.5 The Party shall communicate the decision to override the quorum requirement to Party members, providing an explanation of the exceptional circumstances that led to the decision.
+
+## Section 6: Override of Democratic Decision-Making
+5.1 In exceptional circumstances where the NEC deems it necessary, the NEC may override the democratic decision-making process as outlined in Section 3.
+
+5.2 The decision to override the democratic process shall require a thorough review and consideration of the circumstances and potential consequences.
+
+5.3 The NEC shall provide a clear rationale and justification for the decision to override the democratic process, ensuring transparency and accountability to Party members.
+
+5.4 The override of the democratic decision-making process shall be temporary and limited to the specific circumstances defined by the NEC.
+
+5.5 The Party shall communicate the decision to override the democratic process to Party members, providing an explanation of the exceptional circumstances that led to the decision.
+
+### Section 7: Late Member Joining, Quorum, and Meeting Scope
+6.1 If a Party member joins a meeting after it has started and the meeting currently lacks a quorum, their presence shall be acknowledged, and they shall be allowed to participate in the ongoing discussion.
+
+6.2 The member joining late may be provided with a summary of the discussion that occurred before their arrival, to ensure they are adequately informed.
+
+6.3 If the late member's presence brings the meeting to a quorum, the meeting shall proceed as planned, and decisions may be made in accordance with the established procedures.
+
+6.4 In the event that the meeting still does not reach a quorum even with the late member's presence, the NEC shall have the authority to change the scope of the meeting, including modifying the agenda or deferring certain decisions to a later meeting.
+
+6.5 The NEC shall communicate the decision to change the meeting scope to all meeting participants, providing an explanation of the exceptional circumstances that led to the decision.
+
+6.6 The late member shall have the right to express their views, provide input, and participate in the ongoing discussion, regardless of the meeting's scope or the decisions that may be deferred.
+
+6.7 It is the responsibility of the meeting chair or facilitator, in coordination with the NEC, to ensure that the late member is given a fair opportunity to contribute to the discussion and decision-making process, considering the meeting's revised scope.
+
+### Section 7: Remote Participation
+7.1 The Party recognizes the importance of remote participation to promote inclusivity and enable broader member engagement in Party activities and decision-making processes.
+
+7.2 Remote participation may be allowed in Party meetings, including but not limited to NEC meetings, National Conferences, and branch meetings, through appropriate technological means such as video conferencing or other remote communication tools.
+
+7.3 The Party shall establish guidelines and procedures to facilitate remote participation, ensuring that remote participants have equal opportunities to express their views, participate in discussions, and contribute to decision-making processes.
+
+7.4 Remote participants shall be subject to the same rules and responsibilities as in-person attendees, including adherence to the Party's Constitution, Code of Conduct, and meeting protocols.
+
+7.5 The Party shall ensure that remote participants have access to necessary meeting materials, documents, and relevant information in a timely manner, allowing them to effectively engage in discussions and decision-making processes.
+
+7.6 The Party may implement necessary security measures and authentication protocols to ensure the integrity and confidentiality of remote meetings and prevent unauthorized access.
+
+7.7 The Party shall periodically review and evaluate the effectiveness of remote participation mechanisms, making necessary adjustments to improve accessibility and inclusivity.
+
+7.8 The NEC shall be responsible for overseeing and implementing the provisions related to remote participation, ensuring their consistent application across Party meetings.
+
+7.9 The Party shall strive to create an inclusive environment that values and respects the contributions of both in-person and remote participants, fostering meaningful engagement and democratic decision-making.
+
+6.8 The NEC shall ensure that the procedures for handling late member joining, quorum, and meeting scope are clearly communicated to all Party members, fostering transparency and participation in Party meetings.
+
+
+
