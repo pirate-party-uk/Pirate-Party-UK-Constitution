@@ -46,36 +46,34 @@ Members whose membership has been terminated may appeal the decision to the NEC 
 
 ### Section 1: National Executive Committee (NEC)
 
-The NEC shall be the governing body of the Party and shall consist of at least three officers, including a Leader and a Treasurer, and any nominees appointed by the NEC. The NEC shall be responsible for the day-to-day management of the Party, including but not limited to:
+The members NEC shall be the governing body of the Party and shall consist of at least three members appointed by the members. The NEC shall be responsible for the day-to-day management of the Party, including but not limited to:
 
 - Setting the Party's strategic direction and priorities.
 - Developing and implementing policies.
 - Managing the Party's finances.
 - Overseeing the conduct of Party elections.
+- Updating and maintaining the Party's Code of Conduct.
+- Reviewing and approving proposed amendments to the Party's Constitution.
+- Conducting consultations with Party members on important matters.
+- Representing the Party in external communications and engagements.
+- Ensuring compliance with legal and regulatory requirements.
+- Resolving disputes and disciplinary matters within the Party.
 
 If at any point, the NEC ceases to exist or is not yet formed then the responsibilities will be given to the party officers. Until such time as the NEC is elected, the leader will take.
 
 ### Section 2: Officers
 
-Officers of the Party shall consist of the Leader, the Treasurer, and nominating. The Leader shall be responsible for providing strategic leadership to the Party, while the Treasurer shall be responsible for managing the Party's finances. Nominees appointed by the NEC shall have such duties as assigned by the NEC.
+Officers of the Party shall consist of the Leader, the Treasurer, and nominating and other officers. The Leader shall be responsible for providing strategic leadership to the Party, while the Treasurer shall be responsible for managing the Party's finances. Nominees appointed by the other officers shall have such duties as assigned by the NEC.
 
 #### Term limits
 
-Officers elected by the party leader should have a maximum length of service of 6 months. Officers elected by members of the party should have a maximum term limit of 12 months.
+Officers and members NEC elected by members of the party should have a maximum term limit of 12 months.
 
 #### Right of Recall
 
 A motion to start immediate re-elections can be proposed by any Officer, and they would be held if > 75% of party members requested it.
 
-### Section 3: National Conference
-
-The Party shall hold a National Conference at least once every two years. The Conference shall be the Party's highest decision-making body, and shall be responsible for, among other things:
-
-- Electing members of the NEC.
-- Approving changes to the Party's Constitution and Code of Conduct.
-- Setting the Party's strategic direction and priorities.
-
-### Section 4: Branches
+### Section 3: Branches
 
 The Party may establish branches at the local or regional level, subject to approval by the NEC. Branches shall be responsible for organising local activities and promoting the Party's aims and objectives within their respective areas.
 
@@ -103,8 +101,6 @@ The Party may receive funding from any legal source, including but not limited t
 - Donations.
 - Fundraising activities.
 - other deemed acceptable by their NEC 
-
-Certainly, here is the revised Code of Conduct without point seven:
 
 ## Code of Conduct
 
